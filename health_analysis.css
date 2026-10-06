@@ -58,7 +58,14 @@ label {
     display: inline-block;
     width: 100px;
 }
-  
+.labelRadio {
+    width: auto;
+}  
+.genderSelection {
+    width: 100px;
+    display: inline-block;
+}
+
 input[type="text"],
 input[type="number"],
 select {
